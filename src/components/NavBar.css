@@ -1,0 +1,11 @@
+.NavBar {
+    background: #111;
+    color: #fff;
+    padding: 10px;
+}
+.NavBar a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 20px;
+}

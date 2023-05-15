@@ -1,0 +1,10 @@
+.btn {
+    background: #111;
+    color: #fff;
+    padding: 20px;
+}
+.btn-outline {
+    border: 1px solid #111;
+    background: transparent;
+    color: #111;
+}
